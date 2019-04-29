@@ -1,5 +1,5 @@
-# get-soup.github.io
-getsoup.org
+
+# getsoup.org
 
 Getsoup is hosted on https://www.getsoup.com
 
